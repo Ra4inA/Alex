@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Ebrima';
+    src: url('subset-Ebrima.eot');
+    src: url('subset-Ebrima.eot?#iefix') format('embedded-opentype'),
+        url('subset-Ebrima.woff2') format('woff2'),
+        url('subset-Ebrima.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

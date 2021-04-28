@@ -1,0 +1,99 @@
+@font-face {
+    font-family: 'Helvetica Neue';
+    src: url('../fonts/subset-HelveticaNeueBoldCondensed.eot');
+    src: url('../fonts/subset-HelveticaNeueBoldCondensed.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/subset-HelveticaNeueBoldCondensed.woff2') format('woff2'),
+        url('../fonts/subset-HelveticaNeueBoldCondensed.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Butler';
+    src: url('../fonts/subset-Butler-Light.eot');
+    src: url('../fonts/subset-Butler-Light.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/subset-Butler-Light.woff2') format('woff2'),
+        url('../fonts/subset-Butler-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Butler Stencil';
+    src: url('../fonts/subset-ButlerStencil-Light.eot');
+    src: url('../fonts/subset-ButlerStencil-Light.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/subset-ButlerStencil-Light.woff2') format('woff2'),
+        url('../fonts/subset-ButlerStencil-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Geomanist';
+    src: url('../fonts/subset-Geomanist-Bold.eot');
+    src: url('../fonts/subset-Geomanist-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/subset-Geomanist-Bold.woff2') format('woff2'),
+        url('../fonts/subset-Geomanist-Bold.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Butler';
+    src: url('../fonts/subset-Butler-Medium.eot');
+    src: url('../fonts/subset-Butler-Medium.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/subset-Butler-Medium.woff2') format('woff2'),
+        url('../fonts/subset-Butler-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Butler Stencil';
+    src: url('../fonts/subset-ButlerStencil-Medium.eot');
+    src: url('../fonts/subset-ButlerStencil-Medium.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/subset-ButlerStencil-Medium.woff2') format('woff2'),
+        url('../fonts/subset-ButlerStencil-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Geomanist';
+    src: url('../fonts/subset-Geomanist-Medium.eot');
+    src: url('../fonts/subset-Geomanist-Medium.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/subset-Geomanist-Medium.woff2') format('woff2'),
+        url('../fonts/subset-Geomanist-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ebrima';
+    src: url('../fonts/Ebrima-Bold.eot');
+    src: url('../fonts/Ebrima-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Ebrima-Bold.woff2') format('woff2'),
+        url('../fonts/Ebrima-Bold.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ebrima';
+    src: url('../fonts/subset-Ebrima.eot');
+    src: url('../fonts/subset-Ebrima.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/subset-Ebrima.woff2') format('woff2'),
+        url('../fonts/subset-Ebrima.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
